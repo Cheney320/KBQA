@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/spo_extract/bert/bert-base-chinese/config.json
+/spo_extract/bert/bert-base-chinese/pytorch_model.bin
+/spo_extract/bert/bert-base-chinese/vocab.txt
+/spo_extract/data/dev.json
+/spo_extract/data/schemas.json
+/spo_extract/data/train.json
+/spo_extract/data/vocab.json
